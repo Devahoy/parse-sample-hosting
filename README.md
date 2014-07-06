@@ -1,6 +1,6 @@
 ## Sample Cloud Code
 
-ตัวอย่าง Source Code จากบทความนี้ [ขั้นตอนการใช้งาน Cloud Code เพื่อสร้างเว็บไซต์บน Parse](devahoy.com/2014/07/how-to-hosting-website-with-parse/)
+ตัวอย่าง Source Code จากบทความนี้ [ขั้นตอนการใช้งาน Cloud Code เพื่อสร้างเว็บไซต์บน Parse](http://devahoy.com/2014/07/how-to-hosting-website-with-parse/)
 
 ## Usage
 
