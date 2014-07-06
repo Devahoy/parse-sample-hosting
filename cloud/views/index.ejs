@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Players</title>
+    <link rel="stylesheet" href="../css/foundation.min.css" />
+  </head>
+  <body>
+  	<div class="row">
+  		<h1>List of Players</h1>
+  	</div>
+    
+	<div class="row">
+
+	    <% players.forEach(function(player) { %>
+	    	<div class="panel medium-4 columns">
+				<h3><a href="/players/<%= player.id %>"><%= player.get('name') %></a></h3>
+				<p>Age: <%= player.get('age') %></p>
+				<p>Club: <%= player.get('club') %></p>
+				<p>National: <%= player.get('national') %></p>
+			</div>
+		<% }) %>
+		
+	</div>
+  </body>
+</html>
