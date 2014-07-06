@@ -4,7 +4,7 @@
 
 ## Usage
 
-ให้ทำการเปลี่ยน applicationId กับ masterkey ใน `config/global.json` ให้เป็นของแอพคุณเอง 
+ให้ทำการเปลี่ยน link, applicationId กับ masterkey ใน `config/global.json` ให้เป็นของแอพคุณเอง 
 
 ## Sample Data
 

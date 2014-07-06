@@ -1,7 +1,7 @@
 {
     "applications": {
         "_default": {
-            "link": "devahoy_site"
+            "link": "YOUR_APP_NAME"
         }, 
         "devahoy_site": {
             "applicationId": "YOUR_APPLICATION_ID", 
